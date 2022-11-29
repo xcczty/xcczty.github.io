@@ -14,7 +14,7 @@ html {
 
 .ul-navbar {
     display: flex;
-    height: 100px;
+    height: 80px;
     justify-content: center;
     align-items: center;
 }
